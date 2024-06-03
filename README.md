@@ -80,8 +80,7 @@ This project provided a hands-on experience with YOLO-based object detection and
 - Add support for real-time detection from a webcam.
 - Implement additional features such as object tracking and counting.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## Acknowledgments
 - [YOLO (You Only Look Once)](https://pjreddie.com/darknet/yolo/)
